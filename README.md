@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=astrixsanath14&color=pink)
+
 <!--
 **astrixsanath14/astrixsanath14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
