@@ -1,4 +1,4 @@
-### Hi there 👋
+### Vanakkam 👋
 
 ![](https://komarev.com/ghpvc/?username=astrixsanath14&color=blue)
 
